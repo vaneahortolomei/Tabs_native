@@ -1,0 +1,25 @@
+
+.button {
+    background: lightsteelblue;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.button.is-active {
+    background: coral;
+}
+.tabs {
+    margin-top: 20px;
+}
+.tab {
+    background: gray;
+    padding: 20px;
+    color: #fff;
+    display: none;
+}
+
+.tab.is-active {
+    display: block;
+}
+

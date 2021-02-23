@@ -1,0 +1,22 @@
+{
+  "name": "tabs",
+  "version": "1.0.0",
+  "description": "tabs example",
+  "main": "Tabs.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaneahortolomei/Tabs_native.git"
+  },
+  "keywords": [
+    "12345"
+  ],
+  "author": "Vanea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaneahortolomei/Tabs_native/issues"
+  },
+  "homepage": "https://github.com/vaneahortolomei/Tabs_native#readme"
+}
